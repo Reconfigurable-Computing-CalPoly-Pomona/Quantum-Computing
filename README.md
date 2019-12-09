@@ -84,7 +84,8 @@ Re-usable Python functions are written as Python files and these functions are u
 Lavanya Gnanasekaran, Graduate student, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
 ### Supervising Professor: 
-1. Mohamed El-Hadedy, Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+
+**1. Mohamed El-Hadedy:** Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
 **Collaborators:**
 
