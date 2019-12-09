@@ -84,7 +84,13 @@ Re-usable Python functions are written as Python files and these functions are u
 Lavanya Gnanasekaran, Graduate student, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
 ### Supervising Professor: 
-Dr. Mohamed El-Hadedy, Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+1. Mohamed El-Hadedy, Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+
+**Collaborators:**
+**1. Wen-Mei Hwu:**  Director of Center for Cognitive Computing System Research and Walter J. Sanders III-AMD Endowed Chair Professor in Elecrical and Computer Engineering at UIUC 
+
+**2. Jinjun Xiong:** Director of Center for Cognitive Computing System Research and Adjunct Research Professor at UIUC  
+
 
 ### Project Structure:
 RSA has been implemented using Qiskit Quantum Computing tool and FPGA using VHDL. Qiskit is programmable through Jupyter Notebook using Python programming language. Jupyter Notebooks and re-usable Python functions are available inside `qiskit` folder. VHDL code responsible for running RSA algorithm in FPGA is available inside `vhdl` folder.
@@ -92,5 +98,4 @@ RSA has been implemented using Qiskit Quantum Computing tool and FPGA using VHDL
 ### Project Sponsors:
 
 1. [Xilinx](https://www.xilinx.com/)
-2. [IBM](https://qiskit.org/)
-3. [Center for Cognitive Computing System Research](https://www.c3sr.com/)
+2. [IBM-Illinois Center for Cognitive Computing Systems Research](https://www.c3sr.com/)
